@@ -1,0 +1,79 @@
+
+.box {
+    width:800px;
+    heigth: 900px;
+    background:   #f5f5f5;
+    margin: 50px 400px;
+    border: 1px solid black;
+}
+
+.body {
+    background: #ddd;
+
+}
+
+
+hr {
+    margin: 10px 180px;
+}
+
+.line {
+    margin: 10px 180px;
+    border: none;
+    background-color: gainsboro;
+    height: 1px;
+}
+
+.menu {
+    margin: 10px 180px;
+    margin-bottom: 15px;
+    font-size: 13px; color: slategray;
+
+}
+
+.name {
+    margin: 10px 180px;
+    margin-bottom: 20px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+h1 {
+    margin: 20px 170px;
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+img {
+    width: 200px;
+    margin: 10px 300px;
+    border: 1px solid #a4a4a6;
+}
+
+.name_one {
+    margin: 10px 220px;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.name_one_two {
+    margin: 10px 220px;
+    margin-bottom: 150px;
+    font-size: 13px; color: black;
+}
+
+.name_line {
+
+    font-size: 11px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.menu_one {
+    margin: 10px 220px;
+    font-style: oblique;
+    font-size: 15px;  color: #0063d8;
+    font-weight: 700;
+}
